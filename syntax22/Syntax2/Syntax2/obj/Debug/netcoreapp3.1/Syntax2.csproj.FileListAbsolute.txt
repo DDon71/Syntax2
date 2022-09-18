@@ -1,0 +1,14 @@
+/Users/deucey1tap/Desktop/repos/Syntax2/syntax22/Syntax2/Syntax2/bin/Debug/netcoreapp3.1/Syntax2
+/Users/deucey1tap/Desktop/repos/Syntax2/syntax22/Syntax2/Syntax2/bin/Debug/netcoreapp3.1/Syntax2.deps.json
+/Users/deucey1tap/Desktop/repos/Syntax2/syntax22/Syntax2/Syntax2/bin/Debug/netcoreapp3.1/Syntax2.runtimeconfig.json
+/Users/deucey1tap/Desktop/repos/Syntax2/syntax22/Syntax2/Syntax2/bin/Debug/netcoreapp3.1/Syntax2.runtimeconfig.dev.json
+/Users/deucey1tap/Desktop/repos/Syntax2/syntax22/Syntax2/Syntax2/bin/Debug/netcoreapp3.1/Syntax2.dll
+/Users/deucey1tap/Desktop/repos/Syntax2/syntax22/Syntax2/Syntax2/bin/Debug/netcoreapp3.1/Syntax2.pdb
+/Users/deucey1tap/Desktop/repos/Syntax2/syntax22/Syntax2/Syntax2/obj/Debug/netcoreapp3.1/Syntax2.csproj.AssemblyReference.cache
+/Users/deucey1tap/Desktop/repos/Syntax2/syntax22/Syntax2/Syntax2/obj/Debug/netcoreapp3.1/Syntax2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/deucey1tap/Desktop/repos/Syntax2/syntax22/Syntax2/Syntax2/obj/Debug/netcoreapp3.1/Syntax2.AssemblyInfoInputs.cache
+/Users/deucey1tap/Desktop/repos/Syntax2/syntax22/Syntax2/Syntax2/obj/Debug/netcoreapp3.1/Syntax2.AssemblyInfo.cs
+/Users/deucey1tap/Desktop/repos/Syntax2/syntax22/Syntax2/Syntax2/obj/Debug/netcoreapp3.1/Syntax2.csproj.CoreCompileInputs.cache
+/Users/deucey1tap/Desktop/repos/Syntax2/syntax22/Syntax2/Syntax2/obj/Debug/netcoreapp3.1/Syntax2.dll
+/Users/deucey1tap/Desktop/repos/Syntax2/syntax22/Syntax2/Syntax2/obj/Debug/netcoreapp3.1/Syntax2.pdb
+/Users/deucey1tap/Desktop/repos/Syntax2/syntax22/Syntax2/Syntax2/obj/Debug/netcoreapp3.1/Syntax2.genruntimeconfig.cache
